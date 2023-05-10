@@ -35,3 +35,13 @@
 
 
 ***we selected XGboost classifier as best F1 score(accuracy and micro avg)***
+
+
+## Visulization 
+
+***we built a dashboard on tableau to visulize the results***
+
+https://public.tableau.com/app/profile/mohamed.hassan6266/viz/customerschurnDashboard/Dashboard1
+
+![image](https://github.com/mohamedhassan91/Churn-predection-/assets/60258264/c4c8e843-16b3-4ecb-b2b1-7fa7bb341c71)
+
