@@ -39,7 +39,7 @@
 
 ## Visulization 
 
-***we built a dashboard on tableau to visulize the results***
+***built a dashboard on tableau to visulize the results***
 
 https://public.tableau.com/app/profile/mohamed.hassan6266/viz/customerschurnDashboard/Dashboard1
 
