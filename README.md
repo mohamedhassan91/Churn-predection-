@@ -23,7 +23,7 @@
 
 ***Support Vector Machine***
 
-**Logistic Regression***
+***Logistic Regression***
 
 ***XGboost classifier***
 
